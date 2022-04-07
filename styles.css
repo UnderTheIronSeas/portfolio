@@ -1,105 +1,25 @@
-
-body {
-    font-family: 'Rubik', sans-serif;
-    font-size: 16x;
-    font-weight: ;
-    text-decoration:none;
-    background-color: #B1DDF1;
-    line-height: 1.2rem;
-    letter-spacing: 0;
-    word-spacing: 0;
-    text-align: ;
-    vertical-align: middle;
-    color: #332C23#
-    
+.wrapper {
+    background: #fff;
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 20px;
 }
+/* }
 
-
-h1 {
-    color: #
-}
-
-figcaption {
-    color: #
-}
-
-.subheading {
-    font-size: 20px;
-    font-weight: 700px;
-    font-style: oblique;
-    
-}
-
-#footer {
-    font-size: 
-}
-
-nav {
-    background-color: #9F87AF;
-}
-
-a {
-    text-decoration: none;
-}
-
-/* #about-me h2 {
-    color:blueviolet;
-}
-
-#about-me > p {
-    color: green;
-} */
-
-/* h2 + p {
-    color:red; */
-/* } */
-
-/* h2 ~ p {
-    color: darkgoldenrod;
-} */
-/* 
-#box:checked {
-    box-shadow: 0 0 0 3px green;
-}
-
-#box:checked + label {
-    color: green;
-}
-
-button:hover {
-    color: red;
-}
-
-button:enabled {
-    
-}
-
-a:active{
-    color: red;
-}
-
-p::first-letter {
-    color: red;
-}
-
-p::first-line {
-    color: aqua;
-}
-/* 
-a::before {
-    content: "hello I am Katie" */
-}
-
-p::after {
+.wrapper:after {
     content: "";
-    background-color: palegoldenrod;
-    height: 20px;
-    width: 50%;
-    position: absolute;
-    left: 20px;
-    z-index: -1;
- }
- 
- a[data-anchor="social"] {
-     color: red;
- } */
+    display: block;
+    clear: both;
+} */
+
+.blue-box {
+    background: blue;
+}
+
+.red-box {
+    background: red;
+}
+
+.green-box {
+    background: green;
+}
